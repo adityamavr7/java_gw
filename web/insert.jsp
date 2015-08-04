@@ -202,6 +202,6 @@ tbody:hover tr:hover td {
             <c:out value="${param.susMsg}" />
             <a href="index.jsp">Go Back</a>
         </c:if></font>
- 
+   <a href="index.jsp">Go Home</a>
     </body>
 </html>

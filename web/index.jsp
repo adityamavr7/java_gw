@@ -19,7 +19,7 @@
                 font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
                 text-shadow: 0 1px 0 #fff;
                 
-             background-image: url("back.jpg");
+              background-image: url("../images/back.jpg");
              background-color: #cccccc;
             }
             

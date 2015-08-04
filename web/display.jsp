@@ -24,7 +24,8 @@
         <style> // styles reference http://codepen.io/jackrugile/pen/EyABe
             body {
 	background: #fafafa url(http://jackrugile.com/images/misc/noise-diagonal.png);
-	color: #44314B;
+	 background-image: url("/images/back.jpg");
+         background-color: #cccccc;
 	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
 	text-shadow: 0 1px 0 #fff;
 }
