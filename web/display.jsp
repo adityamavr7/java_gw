@@ -24,7 +24,7 @@
         <style> // styles reference http://codepen.io/jackrugile/pen/EyABe
             body {
 	background: #fafafa url(http://jackrugile.com/images/misc/noise-diagonal.png);
-	 background-image: url("/images/back.jpg");
+	 background-image: url("images/back.jpg");
          background-color: #cccccc;
 	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
 	text-shadow: 0 1px 0 #fff;
@@ -115,7 +115,7 @@ tr:last-of-type td:last-child {
     <center>
         <form>
             <table border="1" width="40%">
-                <caption>Donor's List</caption>
+                <caption>Donoated Items List</caption>
                 <tr>
                     
                     <th>First Name</th>

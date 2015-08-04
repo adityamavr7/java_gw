@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>The GoodWill</title>
-        <img src="../images/goodwill.jpg" alt="" style="width:150px;height:150px; float: left;">
+        <img src="images/goodwill.jpg" alt="" style="width:150px;height:150px; float: left;">
         <img src="">
         <style>
             body {
@@ -19,7 +19,7 @@
                 font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
                 text-shadow: 0 1px 0 #fff;
                 
-              background-image: url("../images/back.jpg");
+              background-image: url("images/back.jpg");
              background-color: #cccccc;
             }
             

@@ -24,7 +24,7 @@
 	text-shadow: 0 1px 0 #ffc34c;
 }
 body {
-    background-image: url("../images/back.jpg");
+    background-image: url("images/back.jpg");
     background-color: #cccccc;
 }
 

@@ -15,7 +15,7 @@
         
         
         <div id="aboutus" data-role="page">
-	<a href="#home"><img src="../images/goodwill.jpg" id="logo" width="100%"/></a>
+	<a href="#home"><img src="images/goodwill.jpg" id="logo" width="100%"/></a>
 		
 			<section data-role="content">
 			<h2>Goodwill</h2>
